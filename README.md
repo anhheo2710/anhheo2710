@@ -29,7 +29,7 @@ Fresher Data Analyst | Ho Chi Minh City
 ## 📫 Connect with me
 - GitHub: [github.com/anhheo2710](https://github.com/anhheo2710)
 - Email: anhh27102003@gmail.com
-- Linkedin: [linkedin.com/kimanhdang](www.linkedin.com/in/kimanhdang2003)
+- LinkedIn: [linkedin.com/kimanhdang](www.linkedin.com/in/kimanhdang2003)
 <!--
 **anhheo2710/anhheo2710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
