@@ -3,7 +3,9 @@
     👋 Hi there! I'm Kim Anh
   </span>
 </h1>
-![Online Illustration by Storyset](https://storyset.com/images/illustrations/online.svg)
+<p align="center">
+  <img src="images/Online resume-cuate.png" width="300" alt="Football Dashboard Preview"/>
+</p>
 <p align="center">
 Fresher Data Analyst | Ho Chi Minh City 
 </p>
