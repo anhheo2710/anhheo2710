@@ -25,7 +25,7 @@ Fresher Data Analyst | Ho Chi Minh City
 - [⚽ Football Player Analysis](https://github.com/anhheo2710/portfolio/tree/main/FootballPlayer-Analysis)
 - [🤖 Facial Expression Recognition](https://github.com/anhheo2710/portfolio/tree/main/Facial-Expression-Recognition)
 - [🛍️ Recommendation System](https://github.com/anhheo2710/Recommendation-System-for-E-commerce)
-
+- [📊 EDA on E-commerce Transaction Data](https://github.com/anhheo2710/EDA-E-commerce-data)
 ## 📫 Connect with me
 - GitHub: [github.com/anhheo2710](https://github.com/anhheo2710)
 - Email: anhh27102003@gmail.com
